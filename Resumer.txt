@@ -1,0 +1,2 @@
+*Creation du index (Le server)
+*Creation database et connection
